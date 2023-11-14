@@ -1,0 +1,13 @@
+{
+  "name": "rescript-base",
+  "scripts": {
+    "build": "rescript build"
+  },
+  "peerDependencies": {
+    "rescript": "^11.0.0-0"
+  },
+  "devDependencies": {
+    "rescript": "^11.1.0"
+  },
+  "packageManager": "yarn@4.2.2"
+}

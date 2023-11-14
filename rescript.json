@@ -1,0 +1,15 @@
+{
+  "name": "rescript-base",
+  "suffix": ".mjs",
+  "sources": [
+    "src"
+  ],
+  "package-specs": {
+    "module": "esmodule",
+    "in-source": true
+  },
+  "bs-dependencies": [
+  ],
+  "bs-dev-dependencies": [
+  ]
+}
